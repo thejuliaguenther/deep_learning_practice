@@ -1,6 +1,5 @@
 import numpy as np
 
-<<<<<<< HEAD
 # Practice implementing one gradient descent step for the weights
 # of a simple network with two inputs and one output unit with a sigmoid
 # activation function
@@ -8,9 +7,6 @@ import numpy as np
 # Based on an exercise from Udacity.com
 ###################################################################
 
-=======
-# Practice implementing Gradient Descent based on Udacity example 
->>>>>>> 5d5060db4eac18cc771934beee84dca08524240a
 def sigmoid(x):
     """
     Calculates sigmoid
