@@ -5,6 +5,7 @@ import numpy as np
 # activation function
 #
 # Based on an exercise from Udacity.com
+###################################################################
 
 def sigmoid(x):
     """
